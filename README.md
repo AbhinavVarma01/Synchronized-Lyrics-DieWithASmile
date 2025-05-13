@@ -11,7 +11,6 @@
 ## 📝 Features
 
 - Synchronized lyrics display in terminal/editor
-- Starts at 00:48 or 1:55 to match the song
 - Built with simple code — no audio or browser involved
 
 ## 🛠️ Built With
